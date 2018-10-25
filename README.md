@@ -19,3 +19,7 @@
 4      - [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)
 903 - [DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence)
 
+### [动态规划](https://leetcode-cn.com/tag/dynamic-programming/)
+
+403 - [青蛙过河](https://leetcode-cn.com/problems/frog-jump/description/)
+
