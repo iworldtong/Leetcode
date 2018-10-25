@@ -11,9 +11,10 @@ class Solution:
         for stone in stones:
             for step in dp[stone].values():
                 for k in [step + 1, step, step - 1]:
-                    if k > 0 and stone + k in dp: # do not use stone -- time out
+                    if k > 0 and stone + k in dp: # do not use stones -- time out
                         dp[stone + k][stone] = k
         return len(dp[stones[-1]].keys()) > 0
+
         
 
 if __name__ == '__main__':
