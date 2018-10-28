@@ -38,6 +38,13 @@
 
 ### [动态规划](https://leetcode-cn.com/tag/dynamic-programming/)
 
+32   - [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/)
+
+188 - [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+
 403 - [青蛙过河](https://leetcode-cn.com/problems/frog-jump/description/)
 
 673 - [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/description/) 
+
+
+
