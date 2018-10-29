@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import pprint
 class Solution:
     def isMatch(self, s, p):
         """
