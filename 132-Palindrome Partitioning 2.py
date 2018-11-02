@@ -8,12 +8,21 @@ class Solution:
         """
         sl = list(s)
         sn = len(sl)
-        dp = [1 for i in range(sn) if True]
+        dp = [0 for i in range(sn) if True]
 
+        last_l = 1
         for i in range(1,sn):
-            
-
-
+            dp[i] = dp[i-1] + 1
+            for j in range(1,last_l+2):
+                if i < j: break
+                tmp_s = s[i-j:i+1]
+                if tmp_s == tmp_s[::-1]:
+                    if i == j:
+                        dp[i] = 0
+                        last_l = i + 1
+                    elif dp[i-j-1] + 1 <= dp[i]:
+                        dp[i] = dp[i-j-1] + 1
+                        last_l = j + 1
 
         return dp[-1]
 
@@ -23,7 +32,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    test = "aab"
+    test = "cabababcbc" # 3
 
 
     s = Solution()
