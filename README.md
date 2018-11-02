@@ -20,6 +20,10 @@
 
 63   - [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii)
 
+64   - [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum)
+
+70   - [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
+
 72   - [编辑距离](https://leetcode-cn.com/problems/edit-distance/description/)
 
 188 - [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
