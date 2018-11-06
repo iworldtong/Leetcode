@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import time
+
 
 class Solution:
     def wordBreak(self, s, wordDict):
@@ -15,17 +15,17 @@ class Solution:
         wordDict.sort(key=lambda x:len(x))
 
 
-        for i in range(ns):
-            if dp[i] == True:
-                for j in range(1,1+len(wordDict[-1])):
+        for i in range(1,1+ns):
+            if dp[i-1] == True:
+                for j in range(len(wordDict[-1])):
                     if i + j > ns:
                         break
-                    if s[i:i+j] in wordDict:
+                    if s[i-1:i+j] in wordDict:
                         dp[i+j] = True
+                        
 
                 
         return dp[-1]
-
 
 
 

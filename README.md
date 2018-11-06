@@ -26,7 +26,17 @@
 
 72   - [编辑距离](https://leetcode-cn.com/problems/edit-distance/description/)
 
+120 - [三角形最小路径和](https://leetcode-cn.com/problems/triangle)
+
+121 - [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
+
+123 - [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii)
+
 132 - [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii)
+
+139 - [单词拆分](https://leetcode-cn.com/problems/word-break)
+
+140 - [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii)
 
 188 - [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 
