@@ -60,6 +60,16 @@
 
 135 - [分发糖果](https://leetcode-cn.com/problems/candy)
 
+392 - [判断子序列](https://leetcode-cn.com/problems/is-subsequence)
+
+402 - [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits)
+
+406 - [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)
+
+435 - [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)
+
+452 - [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons)
+
 455 - [分发饼干](https://leetcode-cn.com/problems/assign-cookies)
 
 765 - [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands)
