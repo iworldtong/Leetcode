@@ -52,6 +52,8 @@
 
 ### [贪心算法](https://leetcode-cn.com/tag/greedy/)
 
+45   - [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)
+
 55   - [跳跃游戏](https://leetcode-cn.com/problems/jump-game)
 
 122 - [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)
@@ -59,6 +61,8 @@
 134 - [加油站](https://leetcode-cn.com/problems/gas-station)
 
 135 - [分发糖果](https://leetcode-cn.com/problems/candy)
+
+376 - [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence)
 
 392 - [判断子序列](https://leetcode-cn.com/problems/is-subsequence)
 
@@ -71,6 +75,8 @@
 452 - [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons)
 
 455 - [分发饼干](https://leetcode-cn.com/problems/assign-cookies)
+
+649 - [Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate)
 
 765 - [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands)
 
